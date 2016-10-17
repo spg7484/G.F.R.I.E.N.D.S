@@ -4,5 +4,8 @@
 
 [![Issue Count](https://codeclimate.com/github/spg7484/G.F.R.I.E.N.D.S/badges/issue_count.svg)](https://codeclimate.com/github/spg7484/G.F.R.I.E.N.D.S)
 
+[![codecov](https://codecov.io/gh/spg7484/G.F.R.I.E.N.D.S/branch/master/graph/badge.svg)](https://codecov.io/gh/spg7484/G.F.R.I.E.N.D.S)
+
+
 # G.F.R.I.E.N.D.S
 PhotoBlog
