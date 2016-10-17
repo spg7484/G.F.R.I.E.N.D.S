@@ -2,6 +2,11 @@ language: java
 jdk:
   - oraclejdk8
  
+<<<<<<< HEAD
  after_success:
   - bash <(curl -s https://codecov.io/bash)
   
+=======
+after_success:
+  - bash <(curl -s https://codecov.io/bash) 
+>>>>>>> branch 'master' of https://github.com/spg7484/G.F.R.I.E.N.D.S
