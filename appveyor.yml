@@ -1,5 +1,0 @@
-version: 1.0.{build}
-build_script:
-- cmd: mvn clean install
-after_test:
-  - bash <(curl -s https://codecov.io/bash)
