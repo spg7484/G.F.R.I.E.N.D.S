@@ -6,6 +6,7 @@
 
 [![codecov](https://codecov.io/gh/spg7484/G.F.R.I.E.N.D.S/branch/master/graph/badge.svg)](https://codecov.io/gh/spg7484/G.F.R.I.E.N.D.S)
 
+[![Throughput Graph](https://graphs.waffle.io/spg7484/G.F.R.I.E.N.D.S/throughput.svg)](https://waffle.io/spg7484/G.F.R.I.E.N.D.S/metrics/throughput)
 
 # G.F.R.I.E.N.D.S
 PhotoBlog
